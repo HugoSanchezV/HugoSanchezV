@@ -6,9 +6,9 @@
             alt="Gif Caricatura programando">
 
 
-- 🔭 I’m currently working on **Rapidito**
+- 🔭 I’m currently working on **Nuvira**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **kotlin**
 
 - 👯 I’m looking to collaborate on **a new projects with PHP or JAVA**
 
