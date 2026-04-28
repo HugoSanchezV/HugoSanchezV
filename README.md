@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Sánchez</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Senior%20Backend-Specialized%20in%20IA-0891b2?style=for-the-badge&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/Fullstack%20Dev-Vue%20%26%20Laravel-0891b2?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 </p>
 
